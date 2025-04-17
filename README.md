@@ -22,7 +22,7 @@
 
 ## Description
 
-Combines streams from other addons into one and provides much greater customisation:
+Combines streams from other addons into one and provides much greater customization:
 
 - Change the format of the resutls
 - Filter all results by resolution, quality, visual tags, audio tags, encodes.
